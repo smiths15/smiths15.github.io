@@ -27,6 +27,10 @@ h6 {
 
 .navbar.navbar-default.navbar-fixed-top.topnav {
     background: url('#');
+
+}
+
+.navbar.navbar-default {
     background-color: #609090;
 }
 
