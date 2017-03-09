@@ -25,7 +25,7 @@ h6 {
     font-size: 14px; 
 }
 
-.navbar.navbar-default.navbar-fixed-top.topnav {
+.navbar.navbar-default {
     background: url('https://smiths15.github.io/img/banner.jpg');
 }
 
