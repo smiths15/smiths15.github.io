@@ -25,6 +25,10 @@ h6 {
     font-size: 14px; 
 }
 
+.navbar-default {
+    background: url('https://smiths15.github.io/img/banner.jpeg');
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
