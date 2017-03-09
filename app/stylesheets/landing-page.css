@@ -170,7 +170,7 @@ p.copyright {
 }
 
 .images {
-    border: 1px solid;
+    border: 5px solid;
     border-color: black;
-    border-radius: 5px;
+    border-radius: 10px;
 }
