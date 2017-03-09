@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url('smiths15.github.io/img/intro.jpg') no-repeat center center;
+    background: url('img/intro.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -116,7 +116,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url('smiths15.github.io/img/banner.jpg') no-repeat center center;
+    background: url('img/banner.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -170,7 +170,5 @@ p.copyright {
 }
 
 .images {
-    border: 20px solid;
-    border-color: black;
-    border-radius: 50px;
+
 }
