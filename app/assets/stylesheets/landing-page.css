@@ -182,7 +182,7 @@ ul.list-inline > li a {
     color: black;
     font-size: 14px;
     text-decoration: none;
-    list-style: none;
+    list-style-type: none;
 }
 
 p.copyright {
