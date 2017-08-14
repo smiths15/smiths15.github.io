@@ -25,6 +25,10 @@ h6 {
     font-size: 14px; 
 }
 
+.navbar.navbar-default.navbar-fixed-top.topnav {
+    background-color: white;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -35,7 +39,11 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
+<<<<<<< HEAD:app/assets/stylesheets/landing-page.css
     background: url('intro.png') no-repeat center center;
+=======
+    background: url('https://smiths15.github.io/img/intro.jpeg') no-repeat center center;
+>>>>>>> d5815cf4d4faaea8b2be63786e912399bdbf35d4:app/stylesheets/landing-page.css
     background-size: cover;
 }
 
@@ -116,7 +124,11 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
+<<<<<<< HEAD:app/assets/stylesheets/landing-page.css
     background: url('banner.jpg') no-repeat center center;
+=======
+    background: url('https://smiths15.github.io/img/banner.jpg') no-repeat center center;
+>>>>>>> d5815cf4d4faaea8b2be63786e912399bdbf35d4:app/stylesheets/landing-page.css
     background-size: cover;
 }
 
@@ -167,4 +179,9 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.images {
+    border: 5px solid;
+    border-color: black;
 }
