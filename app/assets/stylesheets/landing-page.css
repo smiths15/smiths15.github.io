@@ -180,12 +180,12 @@ footer {
 
 ul.list-inline > li a {
     color: black;
-    font-size: 18px;
     text-decoration: none;
 }
 
-ul.list-inline > li {
+ul.list-inline {
     list-style-type: none;
+    font-size: 18px;
 }
 
 p.copyright {
