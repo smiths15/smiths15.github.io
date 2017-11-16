@@ -32,6 +32,38 @@ h6 {
 .lead {
     font-size: 18px;
     font-weight: 400;
+    text-align: justify;
+}
+
+blockquote.reviews {
+    font-size: 15px;
+    font-weight: 400;
+    text-align: justify;
+    font-style: italic;
+    line-height: 25px;
+    padding: 40px;
+    font-family: "Georgia", serif;
+}
+
+blockquote.reviews::before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 70px;
+    position: absolute;
+    left: 20px;
+    color: #7a7a7a;
+}
+
+blockquote cite {
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+
+blockquote cite::before {
+    content:"\2014 \2009";
 }
 
 .intro-header {
@@ -99,6 +131,12 @@ h6 {
 .content-section-1 {
     padding: 50px 0;
     background-color: #f8f8f8;
+}
+
+.content-section-2 {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
 }
 
 .content-section-a {
