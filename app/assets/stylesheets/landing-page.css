@@ -172,6 +172,7 @@ blockquote cite::before {
     padding: 100px 0;
     color: #f8f8f8;
     background: url('https://smiths15.github.io/app/assets/img/banner.jpg') no-repeat center center;
+    text-align: center;
     background-size: cover;
 }
 
